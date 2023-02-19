@@ -2,7 +2,7 @@
 
 What I have learnt in Interactive Development(ID):
 
-<h1>Week 1: What a good website embodies; How to make Replit and Github accounts; What Replit and Github are used for:<h1>
+<h1>Week 1: What a good website embodies; How to make Replit and Github accounts; What Replit and Github are used for:</h1>
 
 I learnt that a good website embodies many factors, some include having a clear and concise message, visually appealing design and easy navigation.
 
