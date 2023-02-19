@@ -2,7 +2,7 @@
 
 What I have learnt in Interactive Development(ID):
 
-Week 1: What a good website embodies; How to make Replit and Github accounts; What Replit and Github are used for:
+<h1>Week 1: What a good website embodies; How to make Replit and Github accounts; What Replit and Github are used for:<h1>
 
 I learnt that a good website embodies many factors, some include having a clear and concise message, visually appealing design and easy navigation.
 
@@ -12,7 +12,7 @@ Replit, on the other hand, is a tool that lets developers write and run code rig
 
 So, in a nutshell, i learnt that GitHub is a place for developers to work on software projects with others, while Replit is a place for developers to write and run their own codes.
 
-<h1>Week 2: Semantic CSS
+<h1>Week 2: Semantic CSS</h1>
 
 Semantic CSS is a way of writing CSS that makes your code more meaningful and easier to understand. It's like giving your HTML elements labels that describe what they are and what they're used for. By using semantic CSS, i can make my code more organized, easier to maintain, and easier for other people to understand. And because my CSS is more meaningful, it will be easier to make changes and updates to my websites in the future. 
 
