@@ -78,7 +78,11 @@ Learnt about RestDB:
   
   Learnt about Lottie animations:
   
-    Lottie is a mobile and web animation library created by Airbnb. It allows designers and developers to easily add high-quality, lightweight animations to their apps and websites using After Effects animations exported as JSON files. Lottie uses a JSON file format called Bodymovin, which contains all the data needed to display complex animations including vector shapes, images, and animations. This enables anyone to create complex animations in After Effects and export them as a single JSON file, which can be easily embedded into other people's app or website using the Lottie library. Lottie supports a range of platforms and programming languages, including iOS, Android, React, Vue, and more!
+    Lottie is a mobile and web animation library created by Airbnb. 
+  
+  It allows designers and developers to easily add high-quality, lightweight animations to their apps and websites using After Effects animations exported as JSON files. 
+  
+  Lottie uses a JSON file format called Bodymovin, which contains all the data needed to display complex animations including vector shapes, images, and animations. This enables anyone to create complex animations in After Effects and export them as a single JSON file, which can be easily embedded into other people's app or website using the Lottie library. Lottie supports a range of platforms and programming languages, including iOS, Android, React, Vue, and more!
 
   
 That's all for my development blog! Thank you
