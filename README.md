@@ -78,7 +78,7 @@ Learnt about RestDB:
   
   Learnt about Lottie animations:
   
-    Lottie is a mobile and web animation library created by Airbnb. 
+  Lottie is a mobile and web animation library created by Airbnb. 
   
   It allows designers and developers to easily add high-quality, lightweight animations to their apps and websites using After Effects animations exported as JSON files. 
   
