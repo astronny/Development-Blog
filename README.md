@@ -14,15 +14,15 @@ So, in a nutshell, i learnt that GitHub is a place for developers to work on sof
 
 <h1>Week 2: Semantic CSS</h1>
 
-Semantic CSS is a way of writing CSS that makes your code more meaningful and easier to understand. It's like giving your HTML elements labels that describe what they are and what they're used for. By using semantic CSS, i can make my code more organized, easier to maintain, and easier for other people to understand. And because my CSS is more meaningful, it will be easier to make changes and updates to my websites in the future. 
+During the second week, I learned about semantic CSS, which is a way of writing CSS that makes your code more meaningful and easier to understand. It's like giving your HTML elements labels that describe what they are and what they're used for. Using semantic CSS makes code more organized, easier to maintain, and easier for others to understand.
 
 <h1>Week 3: More semantic CSS, forms, flexboxes, rgba, and others</h1>
 
-I learnt even more about semantic CSS and the potential it possesses in the development industry. 
+Week 3 was all about using semantic CSS to customize forms, create flexible designs with Flexbox, and use RGBA to specify colors and their transparency.
 
 To summarise what i learnt: 
 
-Forms are a key part of many websites and applications, and CSS can be used to style and customize form elements by changing the appearance of input fields, checkboxes, radio buttons, and more, making forms look more attractive and user-friendly.Flexbox is a powerful layout tool in CSS that allows people to create flexible, responsive designs. It is ideal for building complex layouts that need to adapt to different screen sizes. RGBA is a color model in CSS that allows me to specify colors using red, green, blue, and alpha (transparency) values, giving me more control over the opacity of colours. I can even make subtle gradients amongst other effects!
+Forms are a key part of many websites and applications, and CSS can be used to style and customize form elements by changing the appearance of input fields, checkboxes, radio buttons, and more, making forms look more attractive and user-friendly. Flexbox is a powerful layout tool in CSS that allows people to create flexible, responsive designs. It is ideal for building complex layouts that need to adapt to different screen sizes. RGBA is a color model in CSS that allows me to specify colors using red, green, blue, and alpha (transparency) values, giving me more control over the opacity of colours. I can even make subtle gradients amongst other effects!
 
 <h1>Week 4: Responsive images for flexible layouts</h1>
 
@@ -38,23 +38,17 @@ Learnt about the foundations of Javascript:
 
 <h1>Week 6: Javascript objects</h1>
 
-Learnt about Javascript objects:
-  
-  A Javascript object is a collection of properties and values, similar to a dictionary in Python or a hash in Ruby.  Objects are a fundamental part of many JavaScript libraries and frameworks and can be created using object literal syntax (using '{}'), or by using the object constructor. Properties can be added or accessed using dot notation or bracket notation. Bracket notation allows me to access properties with special characters in their names, while I cannot do this with dot notation. Objects can also have methods, which are functions that belong to the object and can be called using dot notation. Objects can be used to store and manipulate data in complex ways. 
+Week 6 focused on JavaScript objects, which are collections of properties and values, and methods that manipulate data in complex ways. Objects are a fundamental part of many JavaScript libraries and frameworks and can be created using object literal syntax (using '{}'), or by using the object constructor. Properties can be added or accessed using dot notation or bracket notation. Bracket notation allows me to access properties with special characters in their names, while I cannot do this with dot notation. Objects can also have methods, which are functions that belong to the object and can be called using dot notation. Objects can be used to store and manipulate data in complex ways. 
   
 <h1>Week 7: DOM</h1>
 
-Learnt about DOM(Document Object Model):
-  
-  DOM is a programming interface for HTML and XML documents. It represents the document as a tree of objects, where each object represents an element, attribute, or piece of text in the document. This tree structure can be manipulated using JavaScript, allowing me to add, remove, modify elements and attributes, change styles and classes, and respond to user interactions. The DOM is a key tool for creating dynamic, interactive web pages, and is supported by all modern web browsers.
+In week 7, I learned about the Document Object Model (DOM), which is a programming interface for HTML and XML documents.  It represents the document as a tree of objects, where each object represents an element, attribute, or piece of text in the document. Using JavaScript, the DOM allows us to manipulate the document structure, such as adding or removing elements, modifying attributes, and changing styles, as well as responding to user interactions. The DOM is a key tool for creating dynamic, interactive web pages, and is supported by all modern web browsers.
 
 <h1>Week 8: Fetch jQuery</h1>
 
-Learnt Fetch and jQuery:
-  
-Fetch is a modern JavaScript API for making network requests, including AJAX requests to fetch data from web servers. It uses Promises to handle asynchronous operations, and provides a simpler, more flexible API than older AJAX techniques like XMLHttpRequest. (Promise fetch only rejects when network error is encountered)
+During week 8, I learned about Fetch and jQuery. Fetch is a modern JavaScript API for making network requests, including AJAX requests to fetch data from web servers. It uses Promises to handle asynchronous operations, and provides a simpler, more flexible API than older AJAX techniques like XMLHttpRequest. (Promise fetch only rejects when network error is encountered) 
 
-jQuery is a popular JavaScript library that includes a range of tools for manipulating the DOM, handling events, and making network requests. It includes a simplified AJAX API that provides a shorthand way to make AJAX requests, and handles cross-browser compatibility issues for people.
+Meanwhile, jQuery is a popular JavaScript library that includes a range of tools for manipulating the DOM, handling events, and making network requests. It includes a simplified AJAX API that provides a shorthand way to make AJAX requests, and handles cross-browser compatibility issues for people.
 
 Both Fetch and jQuery can be used to make network requests in JavaScript, but they have different syntax and capabilities. Fetch is a more modern, standards-based approach, while jQuery provides a more comprehensive suite of tools for front-end development.
   
@@ -62,27 +56,18 @@ Both Fetch and jQuery can be used to make network requests in JavaScript, but th
 
 Learnt about Bootstrap:
   
-  Bootstrap is a popular front-end framework for building responsive, mobile-first websites and web applications. It provides a collection of HTML, CSS, and JavaScript components, including typography, forms, buttons, navigation menus, modals, and more. By using Bootstrap, people can quickly and easily create professional-looking web pages without needing to write a lot of custom CSS or JavaScript. Bootstrap also provides a grid system for creating responsive layouts, and supports integration with popular front-end development tools like SASS(Syntactically Awesome Stylesheets) and LESS(Leaner CSS).
+  Heading into Week 9, I learned about Bootstrap, a popular front-end framework used to build mobile-first and responsive websites and web applications. It offers a variety of HTML, CSS, and JavaScript components, such as navigation menus, buttons, modals, and more, making it easy for people to create professional-looking web pages without requiring extensive CSS or JavaScript knowledge. Bootstrap's grid system is ideal for responsive layouts and is compatible with tools like SASS and LESS.
   
 <h1>Week 12: RestDB</h1>
 
-Learnt about RestDB:
-  
-  RestDB is a cloud-based NoSQL database service that allows people to quickly and easily create and deploy a RESTful API for their web or mobile app. It provides a web-based interface for designing data models and setting up API endpoints, as well as a range of features for managing data, including search, filtering, and aggregation. RestDB also supports integration with popular front-end development frameworks like Angular, React, and Vue, and provides SDKs for a range of programming languages. By using RestDB, people can save time and effort in building their own backend infrastructure, and focus on building great user experiences for their apps.
+  In Week 12, I was introduced to RestDB, a cloud-based NoSQL database service that provides a web-based interface to design data models and create a RESTful API for web or mobile applications. RestDB's features for managing data, such as filtering, searching, and aggregation, save users time and effort while also supporting popular front-end development frameworks like Angular and React. By using RestDB, people can save time and effort in building their own backend infrastructure, and focus on building great user experiences for their apps.
   
 <h1>Week 13: Common mistakes in Assignment 1</h1>
 
-  Learnt what to look out for in Assignment 2 (eg. messy file structure and weird READMEs)
+  Week 13 was focused on Assignment 1 mistakes to avoid in Assignment 2, such as ensuring clean file structures and clear READMEs.
 
 <h1>Week 14: Lottie animations</h1>
   
-  Learnt about Lottie animations:
-  
-  Lottie is a mobile and web animation library created by Airbnb. 
-  
-  It allows designers and developers to easily add high-quality, lightweight animations to their apps and websites using After Effects animations exported as JSON files. 
-  
-  Lottie uses a JSON file format called Bodymovin, which contains all the data needed to display complex animations including vector shapes, images, and animations. This enables anyone to create complex animations in After Effects and export them as a single JSON file, which can be easily embedded into other people's app or website using the Lottie library. Lottie supports a range of platforms and programming languages, including iOS, Android, React, Vue, and more!
-
+  Finally, in Week 14, I learned about Lottie animations, a library developed by Airbnb that provides designers and developers an easy way to integrate high-quality, lightweight animations into their apps and websites. Lottie utilizes JSON files created in After Effects, containing all the data needed to display complex animations, such as vector shapes and images, on various platforms and programming languages, including iOS, Android, React, and Vue.
   
 That's all for my development blog! Thank you
