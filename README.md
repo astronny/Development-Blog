@@ -27,21 +27,25 @@ Forms are a key part of many websites and applications, and CSS can be used to s
 <h1>Week 4: Responsive images for flexible layouts</h1>
 
 I mainly touched on srcset:
+
   Srcset is a HTML attribute that allows me to specify multiple image sources and sizes for a single image element, which is useful for creating flexible and responsive designs that can adapt to different screen sizes and resolutions.
 
 <h1>Week 5: Basic Javascript</h1>
 
 Learnt about the foundations of Javascript:
+
   JavaScript is a programming language used to create interactive web pages. It's executed by web browsers and allows me to add interactivity, animation, amongst other dynamic elements to my website. JavaScript is used to manipulate HTML and CSS, respond to user input, perform calculations, and interact with web servers. Some key concepts in JavaScript include variables (used to store values), functions (used to perform actions), and control structures like loops and conditionals (used to control program flow). To use JavaScript, people can include it in their HTML code using <script> tags, either by writing code directly in the HTML file or by linking to an external JavaScript file (the latter is better for huge amounts of javascript).
 
 <h1>Week 6: Javascript objects</h1>
 
-Learnt about javascript objects:
+Learnt about Javascript objects:
+  
   A Javascript object is a collection of properties and values, similar to a dictionary in Python or a hash in Ruby.  Objects are a fundamental part of many JavaScript libraries and frameworks and can be created using object literal syntax (using '{}'), or by using the object constructor. Properties can be added or accessed using dot notation or bracket notation. Bracket notation allows me to access properties with special characters in their names, while I cannot do this with dot notation. Objects can also have methods, which are functions that belong to the object and can be called using dot notation. Objects can be used to store and manipulate data in complex ways. 
   
 <h1>Week 7: DOM</h1>
 
 Learnt about DOM(Document Object Model):
+  
   DOM is a programming interface for HTML and XML documents. It represents the document as a tree of objects, where each object represents an element, attribute, or piece of text in the document. This tree structure can be manipulated using JavaScript, allowing me to add, remove, modify elements and attributes, change styles and classes, and respond to user interactions. The DOM is a key tool for creating dynamic, interactive web pages, and is supported by all modern web browsers.
 
 <h1>Week 8: Fetch jQuery</h1>
@@ -57,20 +61,23 @@ Both Fetch and jQuery can be used to make network requests in JavaScript, but th
 <h1>Week 9: Bootstrap</h1>
 
 Learnt about Bootstrap:
+  
   Bootstrap is a popular front-end framework for building responsive, mobile-first websites and web applications. It provides a collection of HTML, CSS, and JavaScript components, including typography, forms, buttons, navigation menus, modals, and more. By using Bootstrap, people can quickly and easily create professional-looking web pages without needing to write a lot of custom CSS or JavaScript. Bootstrap also provides a grid system for creating responsive layouts, and supports integration with popular front-end development tools like SASS(Syntactically Awesome Stylesheets) and LESS(Leaner CSS).
   
 <h1>Week 12: RestDB</h1>
 
 Learnt about RestDB:
+  
   RestDB is a cloud-based NoSQL database service that allows people to quickly and easily create and deploy a RESTful API for their web or mobile app. It provides a web-based interface for designing data models and setting up API endpoints, as well as a range of features for managing data, including search, filtering, and aggregation. RestDB also supports integration with popular front-end development frameworks like Angular, React, and Vue, and provides SDKs for a range of programming languages. By using RestDB, people can save time and effort in building their own backend infrastructure, and focus on building great user experiences for their apps.
   
 <h1>Week 13: Common mistakes in Assignment 1</h1>
 
-  Learnt what to look out for in Assignment 2 (eg. messy file structure and weird READMEs
+  Learnt what to look out for in Assignment 2 (eg. messy file structure and weird READMEs)
 
 <h1>Week 14: Lottie animations</h1>
   
   Learnt about Lottie animations:
+  
     Lottie is a mobile and web animation library created by Airbnb. It allows designers and developers to easily add high-quality, lightweight animations to their apps and websites using After Effects animations exported as JSON files. Lottie uses a JSON file format called Bodymovin, which contains all the data needed to display complex animations including vector shapes, images, and animations. This enables anyone to create complex animations in After Effects and export them as a single JSON file, which can be easily embedded into other people's app or website using the Lottie library. Lottie supports a range of platforms and programming languages, including iOS, Android, React, Vue, and more!
 
   
